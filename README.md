@@ -34,7 +34,7 @@ https://drive.google.com/drive/folders/1OCGwnz1k-QjAqsvO3B53MzyZcwzpEtVe?usp=sha
 
 ![image](https://github.com/Azen-Huang/Embedding-System-Design-Game-Robort-Arm/blob/main/readme/1.png)
 
-![image](https://github.com/Azen-Huang/Game-Robort-Arm/blob/main/readme/2.png)
+![image](https://github.com/Azen-Huang/Embedding-System-Design-Game-Robort-Arm/blob/main/readme/2.png)
 
 ![image](https://github.com/Azen-Huang/Embedding-System-Design-Game-Robort-Arm/blob/main/readme/3.png)
 
